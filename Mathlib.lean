@@ -11,6 +11,8 @@ import Mathlib.Data.Char
 import Mathlib.Data.Equiv.Basic
 import Mathlib.Data.Equiv.Functor
 import Mathlib.Data.Fin.Basic
+import Mathlib.Data.FStream.Defs
+import Mathlib.Data.FStream.Lemmas
 import Mathlib.Data.List.Basic
 import Mathlib.Data.List.Card
 import Mathlib.Data.List.Defs
